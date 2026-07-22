@@ -6,13 +6,13 @@
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss)](https://tailwindcss.com/)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org/)
-[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify)](https://jonathanbosimwenda.netlify.app)
+[![Deployed on Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?logo=netlify)](https://jonathanbosimwenda28.netlify.app)
 
 ---
 
 ## 🌐 Live Site
 
-**[jonathanbosimwenda.netlify.app](https://jonathanbosimwenda28.netlify.app)**
+**[jonathanbosimwenda28.netlify.app](https://jonathanbosimwenda28.netlify.app)**
 
 ---
 
