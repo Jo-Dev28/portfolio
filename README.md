@@ -12,7 +12,7 @@
 
 ## 🌐 Live Site
 
-**[jonathanbosimwenda28.netlify.app](https://jonathanbosimwenda28.netlify.app)**
+**[jonathanbosimwenda](https://jonathanbosimwenda28.netlify.app)**
 
 ---
 
