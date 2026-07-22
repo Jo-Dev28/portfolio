@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peterakilimali.site/sitemap.xml
+Sitemap: https://jonathanbosimwenda28.netlify.app.xml
